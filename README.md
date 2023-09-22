@@ -4,12 +4,11 @@
 
 **Current Learning:**
 
-<div style="display: flex; align-items: center; margin-top: -10px; margin-bottom: 10px;">
-<img align="auto" alt="FastAPI" width="25px" style="padding-right:10px; margin-bottom: -5px;" src="img/fastapi.svg" /></div>
+[<img align="auto" alt="fastapi" width="30px" src="img/fastapi.svg"/>](https://fastapi.tiangolo.com/)
 
 **Contact Me**
 
-[<img align="auto" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor"/>](https://www.linkedin.com/in/urvish-patel-273b5325a/)
+[<img align="auto" alt="LinkedIn" width="30px" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor"/>](https://www.linkedin.com/in/urvish-patel-273b5325a/)
 
 **Interests**
 
@@ -19,18 +18,30 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/python-original.svg?size=124" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/c-original.svg?size=124"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/cplusplus-original.svg?size=124"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=124&color=ffffff"/>
-<img align="left" alt="Postgre" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=124&color=ffffff"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Neovim" width="25px" style="padding-right:10px;" src="img/neovim-mark.svg" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<br />
+<p align="center">
+    <a alt="python">
+        <img src="https://icongr.am/devicon/python-original.svg?size=30"/></a>
+    <a alt="C">
+        <img src="https://icongr.am/devicon/c-original.svg?size=30"/></a>
+    <a alt="C++">
+        <img src="https://icongr.am/devicon/cplusplus-original.svg?size=30"/></a>
+    <a alt="Bash">
+        <img src="img/bash.svg" width="28px"/></a>
+    <a alt="Bash">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px"/></a>
+    <a alt="MySql">
+        <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=30"/></a>
+    <a alt="Postgre SQL">
+        <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=30"/></a>
+    <a alt="git">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/></a>
+    <a alt="github">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px"/></a>
+    <a alt="NeoVim">
+        <img src="img/neovim-mark.svg" width="24px"/></a>
+    <a alt="vscode">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/></a>
+</p>
 
 #
 
