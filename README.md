@@ -4,7 +4,8 @@
 
 **Current Learning:**
 
-[<img align="auto" alt="fastapi" width="30px" src="img/fastapi.svg"/>](https://fastapi.tiangolo.com/)
+
+[<img align="auto" alt="fastapi" width="100px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/>](https://fastapi.tiangolo.com/)
 
 **Contact Me**
 
@@ -15,12 +16,13 @@
 - 📚 I like to read mangas, and I'm currently reading a series called Kingdom.
 
 ---
+          
 
 ### 🧰 Languages and Tools
 
 <p align="center">
     <a alt="python">
-        <img src="https://icongr.am/devicon/python-original.svg?size=30"/></a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px"/></a>
     <a alt="C">
         <img src="https://icongr.am/devicon/c-original.svg?size=30"/></a>
     <a alt="C++">
