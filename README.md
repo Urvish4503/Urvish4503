@@ -26,7 +26,7 @@
     <a alt="C++">
         <img src="https://icongr.am/devicon/cplusplus-original.svg?size=30"/></a>
     <a alt="Bash">
-        <img src="img/bash.svg" width="28px"/></a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30px"/></a>
     <a alt="Bash">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px"/></a>
     <a alt="MySql">
@@ -38,7 +38,7 @@
     <a alt="github">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px"/></a>
     <a alt="NeoVim">
-        <img src="img/neovim-mark.svg" width="24px"/></a>
+        <img src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" width="30px"/></a>
     <a alt="vscode">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/></a>
 </p>
