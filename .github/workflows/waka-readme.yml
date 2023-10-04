@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "15 6 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -12,3 +12,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: last_7_days
+          SHOW_TOTAL: false
