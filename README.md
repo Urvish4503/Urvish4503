@@ -4,7 +4,7 @@
 
 **Current Learning:**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="30px" /> <img src="https://www.django-rest-framework.org/img/logo.png" width="80px" />
 
 **Contact Me**
 
@@ -25,8 +25,10 @@
         <img src="https://icongr.am/devicon/c-original.svg?size=30"/></a>
     <a alt="C++">
         <img src="https://icongr.am/devicon/cplusplus-original.svg?size=30"/></a>
+    <a alt="JS">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="30px" /></a>
     <a alt="Fastapit">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" width="30px"/></a>
+        <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="30px"/></a>
     <a alt="Bash">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30px"/></a>
     <a alt="Tux">
