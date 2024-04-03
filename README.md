@@ -12,7 +12,7 @@
 
 **Interests**
 
-- 📚 I like to read books and mangas, and I'm currently reading a series called Gantz and LOTR.
+- 📚 I like to read books and mangas, and I'm currently reading LOTR.
 
 ---
 
