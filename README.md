@@ -52,9 +52,9 @@
 ## 📊 Stats 
 
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=baba045&theme=rose_pine&show_icons=true&rank_icon=github">
+  <img src="https://github-readme-stats.vercel.app/api?username=Urvish4503&theme=rose_pine&show_icons=true&rank_icon=github">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baba045&theme=rose_pine">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvish4503&theme=rose_pine">
 </div>
 
 ### What i did this week:
