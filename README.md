@@ -4,7 +4,7 @@
 
 **Current Learning:**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="30px" /> <img src="https://www.django-rest-framework.org/img/logo.png" width="80px" />
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 
 **Contact Me**
 
@@ -18,34 +18,37 @@
 
 ## 🧰 Languages and Tools
 
-<p align="center">
-    <a alt="python">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px"/></a>
-    <a alt="C">
-        <img src="https://icongr.am/devicon/c-original.svg?size=30"/></a>
-    <a alt="C++">
-        <img src="https://icongr.am/devicon/cplusplus-original.svg?size=30"/></a>
-    <a alt="JS">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="30px" /></a>
-    <a alt="Fastapit">
-        <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="30px"/></a>
-    <a alt="Bash">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30px"/></a>
-    <a alt="Tux">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px"/></a>
-    <a alt="MySql">
-        <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=30"/></a>
-    <a alt="Postgre SQL">
-        <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=30"/></a>
-    <a alt="git">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/></a>
-    <a alt="github">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px"/></a>
-    <a alt="NeoVim">
-        <img src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" width="30px"/></a>
-    <a alt="vscode">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/></a>
-</p>
+### 🧑‍💻 Programming Languages:
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+
+### 🖼️ Frameworks:
+
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+
+### ⛈️ Databases:
+
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+
+### 💻 Editor:
+
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+
+### 🖥️ Operating Systems:
+
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 
 #
 
@@ -55,7 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Urvish4503&theme=rose_pine&show_icons=true&rank_icon=github">
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvish4503&theme=rose_pine">
-</div>
 
 ### What i did this week:
 
