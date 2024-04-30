@@ -4,7 +4,7 @@
 
 **Current Learning:**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="30px" /> <img src="https://www.django-rest-framework.org/img/logo.png" width="80px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="30px" /> <img src="https://www.django-rest-framework.org/img/logo.png" width="80px" />
 
 **Contact Me**
 
@@ -49,7 +49,7 @@
 
 #
 
-## 📊 Stats 
+## 📊 Stats
 
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Urvish4503&theme=rose_pine&show_icons=true&rank_icon=github">
@@ -72,3 +72,5 @@ sh           0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+
+[![Metrics](./github-metrics.svg)](#)
