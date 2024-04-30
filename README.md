@@ -71,6 +71,6 @@ sh           0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-[![Metrics](./gigithub-metrics.svg)](#)
+[![Metrics](https://raw.githubusercontent.com/Urvish4503/Urvish4503/136e04073d6dc53940317bc467efa663783a40da/github-metrics.svg)](#)
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
