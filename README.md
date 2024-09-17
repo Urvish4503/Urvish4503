@@ -2,10 +2,6 @@
 
 👨‍💻 I'm a dedicated college student majoring in Information and Communication Technology. My passion lies in delving into the ever-evolving world of technology, where I thrive.
 
-**Current Learning:**
-
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
-
 **Contact Me**
 
 [<img align="auto" alt="LinkedIn" width="30px" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor"/>](https://www.linkedin.com/in/urvish-patel-273b5325a/)
@@ -45,10 +41,6 @@
 ### 💻 Editor:
 
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
-
-### 🖥️ Operating Systems:
-
-[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 
 #
 
